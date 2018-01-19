@@ -1,0 +1,9 @@
+
+{
+    "clientId": "744116642405-sb57d511rm6ssbqjdg7m5lu7a18ka6d8.apps.googleusercontent.com",
+    "projectId": "oauth-wu",
+    "serviceAccountEmail": "",
+    "serviceAccountPrivateKeyFile": "/Users/22618440/oauth/oauth-wu-d5febbee7132.pem",
+    "widgetUrl": "http://localhost:8000/gitkit",
+    "cookieName": "gtoken"
+  }
